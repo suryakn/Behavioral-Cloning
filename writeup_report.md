@@ -4,11 +4,11 @@
 
 [//]: # (Image References)
 
-[image1]: ./examples/Visualization.jpg "Normal Image"
-[image2]: ./examples/cropped.jpg "Cropped Image"
-[image3]: ./examples/recovery1.jpg "Recovery Image"
-[image4]: ./examples/recovery2.jpg "Recovery Image"
-[image5]: ./examples/recovery3.jpg "Recovery Image"
+[image1]: ./images/Visualization.jpg "Normal Image"
+[image2]: ./images/cropped.jpg "Cropped Image"
+[image3]: ./images/recovery1.jpg "Recovery Image"
+[image4]: ./images/recovery2.jpg "Recovery Image"
+[image5]: ./images/recovery3.jpg "Recovery Image"
 
 ---
 ###Files Submitted & Code Quality
