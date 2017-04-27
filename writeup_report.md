@@ -5,7 +5,7 @@
 [//]: # (Image References)
 
 [image1]: ./images/Visualization.png "Normal Image"
-[image2]: ./images/cropped.jpg "Cropped Image"
+[image2]: ./images/cropped.png "Cropped Image"
 [image3]: ./images/recovery1.jpg "Recovery Image"
 [image4]: ./images/recovery2.jpg "Recovery Image"
 [image5]: ./images/recovery3.jpg "Recovery Image"
