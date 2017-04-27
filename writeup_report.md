@@ -4,7 +4,7 @@
 
 [//]: # (Image References)
 
-[image1]: ./images/Visualization.jpg "Normal Image"
+[image1]: ./images/Visualization.png "Normal Image"
 [image2]: ./images/cropped.jpg "Cropped Image"
 [image3]: ./images/recovery1.jpg "Recovery Image"
 [image4]: ./images/recovery2.jpg "Recovery Image"
@@ -74,6 +74,9 @@ At the end of the process, the vehicle is able to drive autonomously around the 
 ####2. Final Model Architecture
 
 Model starts with normalization (keras lambda) of the 160, 320, 3  and cropping the image (70 pixels from the top and 25 from bottom) with 5x5 filter sizes with depth varying from 24 and 64 and 2x2 stride.
+
+cropped image :
+![alt text][image2]
 
 
 The model includes RELU layers to introduce nonlinearity.
